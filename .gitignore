@@ -1,0 +1,9 @@
+# ignore all csv file 
+folders/*.csv
+# include the following files 
+!folders/baseline_model_results.csv
+!folders/baseline_model_report.md
+
+# to Include best performing model's after finding it 
+
+
