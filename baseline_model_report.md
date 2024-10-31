@@ -12,5 +12,5 @@
 * ROC-AUC: 0.59
 
 ## Model Image
-![Model Image](/Users/tosin/Desktop/TDI_Week5/TDI_Week5/reports/datav1.6_RandomForestClassifier_confusion_matrix.png)
+![Model Image](reports/datav1.6_RandomForestClassifier_confusion_matrix.png)
 

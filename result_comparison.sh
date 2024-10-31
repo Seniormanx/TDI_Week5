@@ -35,6 +35,6 @@ cat <<EOF > baseline_model_report.md
 * ROC-AUC: $roc_auc
 
 ## Model Image
-![Model Image]($directory/data${name}_confusion_matrix.png)
+![Model Image](reports/data${name}_confusion_matrix.png)
 
 EOF
