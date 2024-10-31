@@ -5,7 +5,7 @@ reports/*.csv
 !reports/baseline_model_report.md
 
 # ignore all png files 
-reports/*.png
+comment reports/*.png
 # to Include best performing model's after finding it 
 
 
